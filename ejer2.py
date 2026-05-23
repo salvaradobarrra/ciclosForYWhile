@@ -2,6 +2,7 @@ import random
 
 try:
     #es algo nuevo
+    #otra cosa
     limite_inferior=int(input("Ingrese limite inferior: "))
     limite_superior=int(input("Ingreselimitesuperior: "))
 
